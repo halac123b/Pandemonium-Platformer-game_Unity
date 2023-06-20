@@ -15,3 +15,5 @@
 - Checkpoint, respawn when die<br>
 - Gameover screen<br>
 - Pause game, pause screen, option setting<br>
+
+<img src="capture.gif">
